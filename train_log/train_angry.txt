@@ -1,0 +1,126 @@
+Model initialized
+Epoch 0 complete! Average Training loss: 0.6014357781998144
+Validation loss is: 0.4613774426300125
+Found new check model, saving to disk...
+Epoch 1 complete! Average Training loss: 0.4880023825725826
+Validation loss is: 0.4252790484512061
+Found new check model, saving to disk...
+Epoch 2 complete! Average Training loss: 0.45346054207721437
+Validation loss is: 0.3952601535577224
+Found new check model, saving to disk...
+Epoch 3 complete! Average Training loss: 0.4334888942635668
+Validation loss is: 0.37839456429158835
+Found new check model, saving to disk...
+Epoch 4 complete! Average Training loss: 0.41588495757854455
+Validation loss is: 0.39436405344415726
+Epoch 5 complete! Average Training loss: 0.3858883738035133
+Validation loss is: 0.3767022154384986
+Found new check model, saving to disk...
+Epoch 6 complete! Average Training loss: 0.37939271235404576
+Validation loss is: 0.34448073920151945
+Found new check model, saving to disk...
+Epoch 7 complete! Average Training loss: 0.3718096901925558
+Validation loss is: 0.3299874900875235
+Found new check model, saving to disk...
+Epoch 8 complete! Average Training loss: 0.3451198453976909
+Validation loss is: 0.329368878127937
+Found new check model, saving to disk...
+Epoch 9 complete! Average Training loss: 0.34062177063482496
+Validation loss is: 0.3227589542704417
+Found new check model, saving to disk...
+Epoch 10 complete! Average Training loss: 0.3238614327687308
+Validation loss is: 0.34653635431351815
+Epoch 11 complete! Average Training loss: 0.3054402358048445
+Validation loss is: 0.289133267892632
+Found new check model, saving to disk...
+Epoch 12 complete! Average Training loss: 0.2894606609576144
+Validation loss is: 0.33392077759095
+Epoch 13 complete! Average Training loss: 0.28182997824648176
+Validation loss is: 0.2645951655873081
+Found new check model, saving to disk...
+Epoch 14 complete! Average Training loss: 0.2779993616047264
+Validation loss is: 0.3126871783034246
+Epoch 15 complete! Average Training loss: 0.24520472581657723
+Validation loss is: 0.35255749542312814
+Epoch 16 complete! Average Training loss: 0.22961168812178592
+Validation loss is: 0.35398799733709274
+Epoch 17 complete! Average Training loss: 0.22427441207722884
+Validation loss is: 0.23944810757362156
+Found new check model, saving to disk...
+Epoch 18 complete! Average Training loss: 0.2035738459219597
+Validation loss is: 0.3210487078903313
+Epoch 19 complete! Average Training loss: 0.19314743729255465
+Validation loss is: 0.4054731784906602
+Epoch 20 complete! Average Training loss: 0.19369594946388466
+Validation loss is: 0.29056099721961154
+Epoch 21 complete! Average Training loss: 0.18177256261245
+Validation loss is: 0.31543643731521187
+Epoch 22 complete! Average Training loss: 0.17546877266073388
+Validation loss is: 0.29425930319573346
+Epoch 23 complete! Average Training loss: 0.1975834224870813
+Validation loss is: 0.37693832512188674
+Epoch 24 complete! Average Training loss: 0.17590742055045627
+Validation loss is: 0.31882811429207786
+Epoch 25 complete! Average Training loss: 0.15368934628890638
+Validation loss is: 0.27113499079730574
+Epoch 26 complete! Average Training loss: 0.14710209858430676
+Validation loss is: 0.3078679058486059
+Epoch 27 complete! Average Training loss: 0.1433194373344559
+Validation loss is: 0.3205186657439497
+Epoch 28 complete! Average Training loss: 0.14675469463434035
+Validation loss is: 0.3585672402441651
+Epoch 29 complete! Average Training loss: 0.1348122250827569
+Validation loss is: 0.3530224486998747
+Epoch 30 complete! Average Training loss: 0.1327919001784621
+Validation loss is: 0.3443057794021186
+Epoch 31 complete! Average Training loss: 0.1334296794862575
+Validation loss is: 0.2835110924895246
+Epoch 32 complete! Average Training loss: 0.11855844798489973
+Validation loss is: 0.31237242275610905
+Epoch 33 complete! Average Training loss: 0.12597894001673987
+Validation loss is: 0.2562965832856066
+Epoch 34 complete! Average Training loss: 0.13679860083110024
+Validation loss is: 0.21884635217805257
+Found new check model, saving to disk...
+Epoch 35 complete! Average Training loss: 0.12167920704751406
+Validation loss is: 0.46372064193687346
+Epoch 36 complete! Average Training loss: 0.10906790647166244
+Validation loss is: 0.3866321688009085
+Epoch 37 complete! Average Training loss: 0.09207119036124475
+Validation loss is: 0.3619029492065124
+Epoch 38 complete! Average Training loss: 0.1008569849384239
+Validation loss is: 0.24625559259476817
+Epoch 39 complete! Average Training loss: 0.11970916371771984
+Validation loss is: 0.31651841548451204
+Epoch 40 complete! Average Training loss: 0.10991439171735966
+Validation loss is: 0.41050498407884944
+Epoch 41 complete! Average Training loss: 0.0896020994758536
+Validation loss is: 0.39863521413396774
+Epoch 42 complete! Average Training loss: 0.07521365912556431
+Validation loss is: 0.32833541067023025
+Epoch 43 complete! Average Training loss: 0.08393537269868874
+Validation loss is: 0.44115885875577615
+Epoch 44 complete! Average Training loss: 0.07162057638256086
+Validation loss is: 0.34610524571927864
+Epoch 45 complete! Average Training loss: 0.06877214154163439
+Validation loss is: 0.6109676886919447
+Epoch 46 complete! Average Training loss: 0.067658716400713
+Validation loss is: 0.6044862599002389
+Epoch 47 complete! Average Training loss: 0.06759629733956468
+Validation loss is: 0.4059703320190124
+Epoch 48 complete! Average Training loss: 0.06780357436744178
+Validation loss is: 0.5867874030780075
+Epoch 49 complete! Average Training loss: 0.07901832118032612
+Validation loss is: 0.31759486760113176
+Epoch 50 complete! Average Training loss: 0.06426169203623806
+Validation loss is: 0.2654614938530408
+Epoch 51 complete! Average Training loss: 0.06126918809068172
+Validation loss is: 0.5706149223155546
+Epoch 52 complete! Average Training loss: 0.05494234550512578
+Validation loss is: 0.38997097541216325
+Epoch 53 complete! Average Training loss: 0.05478757137229084
+Validation loss is: 0.3803418381769854
+Epoch 54 complete! Average Training loss: 0.06747097174034078
+Validation loss is: 0.334468602536615
+F1-score on test set is 0.8900815592777207
+Accuracy score on test set is 0.8891257995735607
