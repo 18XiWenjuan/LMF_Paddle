@@ -1,0 +1,34 @@
+[2022/04/21 17:25:21] root INFO: 
+
+[2022/04/21 17:25:21] root INFO: ---------------------- Env info ----------------------
+[2022/04/21 17:25:21] root INFO:  OS_version: Ubuntu 18.04
+[2022/04/21 17:25:21] root INFO:  CUDA_version: 11.0.194
+Build cuda_11.0_bu.TC445_37.28540450_0
+[2022/04/21 17:25:21] root INFO:  CUDNN_version: None.None.None
+[2022/04/21 17:25:21] root INFO:  drivier_version: 450.51.05
+[2022/04/21 17:25:21] root INFO: ---------------------- Paddle info ----------------------
+[2022/04/21 17:25:21] root INFO:  paddle_version: 2.2.2
+[2022/04/21 17:25:21] root INFO:  paddle_commit: b031c389938bfa15e15bb20494c76f86289d77b0
+[2022/04/21 17:25:21] root INFO:  log_api_version: 1.0
+[2022/04/21 17:25:21] root INFO: ----------------------- Conf info -----------------------
+[2022/04/21 17:25:21] root INFO:  runtime_device: gpu
+[2022/04/21 17:25:21] root INFO:  ir_optim: True
+[2022/04/21 17:25:21] root INFO:  enable_memory_optim: True
+[2022/04/21 17:25:21] root INFO:  enable_tensorrt: False
+[2022/04/21 17:25:21] root INFO:  enable_mkldnn: False
+[2022/04/21 17:25:21] root INFO:  cpu_math_library_num_threads: 1
+[2022/04/21 17:25:21] root INFO: ----------------------- Model info ----------------------
+[2022/04/21 17:25:21] root INFO:  model_name: LMF
+[2022/04/21 17:25:21] root INFO:  precision: fp32
+[2022/04/21 17:25:21] root INFO: ----------------------- Data info -----------------------
+[2022/04/21 17:25:21] root INFO:  batch_size: 1
+[2022/04/21 17:25:21] root INFO:  input_shape: dynamic
+[2022/04/21 17:25:21] root INFO:  data_num: 1
+[2022/04/21 17:25:21] root INFO: ----------------------- Perf info -----------------------
+[2022/04/21 17:25:21] root INFO:  cpu_rss(MB): 2623.5938, gpu_rss(MB): 1903.0, gpu_util: 5.0%
+[2022/04/21 17:25:21] root INFO:  total time spent(s): 1.0118
+[2022/04/21 17:25:21] root INFO:  preprocess_time(ms): 10.0965, inference_time(ms): 1001.7402, postprocess_time(ms): 0.0055
+/home/zcb/anaconda3/lib/python3.8/site-packages/auto_log/env.py:53: DeprecationWarning: distro.linux_distribution() is deprecated. It should only be used as a compatibility shim with Python's platform.linux_distribution(). Please use distro.id(), distro.version() and distro.name() instead.
+  plat = distro.linux_distribution()[0]
+/home/zcb/anaconda3/lib/python3.8/site-packages/auto_log/env.py:54: DeprecationWarning: distro.linux_distribution() is deprecated. It should only be used as a compatibility shim with Python's platform.linux_distribution(). Please use distro.id(), distro.version() and distro.name() instead.
+  ver = distro.linux_distribution()[1]
