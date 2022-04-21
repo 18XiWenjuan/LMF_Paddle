@@ -188,7 +188,7 @@ def get_args():
     parser.add_argument("--emotion", default='happy')
     parser.add_argument("--save_inference_dir", type=str, default='./check_inference', help="inference model dir")
     parser.add_argument("--use-gpu", default=False, type=str2bool, help="use_gpu")
-    parser.add_argument("--batch_size", default=2, type=int, help="batch size")
+    parser.add_argument("--batch_size", default=32, type=int, help="batch size")
     parser.add_argument("--benchmark", default=False, type=str2bool, help="benchmark")
 
     args = parser.parse_args()
