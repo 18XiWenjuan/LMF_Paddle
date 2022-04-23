@@ -1,0 +1,32 @@
+===========================train_params===========================
+model_name:lmf
+python:python3.8
+gpu_list:0
+use-gpu:True|True
+--epochs:lite_train_lite_infer=5|whole_train_whole_infer=100
+--model_path:./check
+--batch_size:lite_train_lite_infer=16|whole_train_whole_infer=16
+null:null
+train_model_name:check
+--data_path:./data/sample_data.pkl
+##
+trainer:norm_train
+norm_train:tools/train.py --emotion happy
+##
+===========================eval_params===========================
+eval:./tools/eval.py --data_path ./data/sample_data.pkl --check_path ./check/happy.pkl
+##
+===========================infer_params===========================
+null:null
+null:null
+norm_export:tools/export.py --data_path ./data/sample_data.pkl --check_path ./check/
+##
+null:null
+infer_export:tools/export.py --data_path ./data/sample_data.pkl --check_path ./check/
+##
+inference:tools/infer.py --data_path ./data/sample_data.pkl --save_inference_dir ./check_inference
+--use-gpu:True|False
+--batch_size:1
+null:null
+null:null
+--benchmark:True
